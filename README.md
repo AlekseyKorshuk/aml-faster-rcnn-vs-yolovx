@@ -54,7 +54,7 @@ Sample predictions:
   - Yolo is a lot faster and such speed gives a lot of betefits despite its size
   - Yolo training for 24 epochs done in 4 minutes, but Faster RCNN in 55 minutes
 - Size:
-  - Fater RCNN model size: 796.5 Mb
+  - Faster RCNN model size: 796.5 Mb
   - Yolov8 model size: 21.46 Mb
 
 
