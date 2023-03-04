@@ -23,9 +23,9 @@ link: [link](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/
 
 I desided to detect spoon and fox. So here are example images:
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/fox.jped" alt="Fox" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/fox.jpeg" alt="Fox" width="1200"/>
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/spoon.jped" alt="Spoon" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/spoon.jpeg" alt="Spoon" width="1200"/>
 
 # Annotation with roboflow
 
