@@ -23,15 +23,13 @@ link: [link](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/
 
 I desided to detect spoon and fox. So here are example images:
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/fox.jpeg" alt="Fox" width="1200"/>
-
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/spoon.jpeg" alt="Spoon" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/fox.jpeg" alt="Fox" width="320"/><img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/spoon.jpeg" alt="Spoon" width="320"/>
 
 # Annotation with roboflow
 
 This is very easy to annotate obhject detection dataset. Here is a screenshot from the roboflow ui:
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/annotations.png" alt="Annotation" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/annotation.png" alt="Annotation" width="1200"/>
 
 # Faster RCNN using detectron2
 
@@ -39,9 +37,7 @@ Based on official documentation of detectron2 and roboflow I was able to train F
 
 Sample predictions:
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/rcnn-preds-1.png" alt="preds" width="1200"/>
-
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/rcnn-preds-2.png" alt="preds" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/rcnn-preds-1.png" alt="preds" width="320"/><img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/rcnn-preds-2.png" alt="preds" width="320"/>
 
 # Yolov8
 
