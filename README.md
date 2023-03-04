@@ -12,20 +12,26 @@ The goal of this assignment is train both models on custom annotated dataset.
 
 5. Evaluate both models based on mAP and speed and size.
 
+# Colab notebook 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/aml-faster-rcnn-vs-yolovx/AML_|_Faster_RCNN_Yolovx.ipynb)
+
+Follow this
+link: [link](https://colab.research.google.com/github/AlekseyKorshuk/huggingnft/blob/main/aml-faster-rcnn-vs-yolovx/AML_|_Faster_RCNN_Yolovx.ipynb)
 
 # Taking photos
 
 I desided to detect spoon and fox. So here are example images:
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/fox.png" alt="Fox" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/fox.jped" alt="Fox" width="1200"/>
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/spoon.png" alt="Spoon" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/spoon.jped" alt="Spoon" width="1200"/>
 
 # Annotation with roboflow
 
 This is very easy to annotate obhject detection dataset. Here is a screenshot from the roboflow ui:
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/annotation.png" alt="Annotation" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/annotations.png" alt="Annotation" width="1200"/>
 
 # Faster RCNN using detectron2
 
@@ -57,7 +63,13 @@ Sample predictions:
   - Faster RCNN model size: 796.5 Mb
   - Yolov8 model size: 21.46 Mb
 
+# Resources
 
+- https://docs.roboflow.com
+- https://blog.roboflow.com/how-to-train-detectron2/
+- https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/
+- https://github.com/facebookresearch/detectron2
+- https://ultralytics.com/yolov8
 
 
 
