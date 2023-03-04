@@ -43,7 +43,7 @@ With the usage of yolo client it was super smooth to train yolov8s on custom dat
 
 Sample predictions:
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/yolo-preds.png" alt="preds" width="1200"/>
+<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/yolo-preds.jpg" alt="preds" width="1200"/>
 
 # Comparison
 
