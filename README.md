@@ -14,10 +14,10 @@ The goal of this assignment is train both models on custom annotated dataset.
 
 # Colab notebook 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/blob/main/aml-faster-rcnn-vs-yolovx/AML_|_Faster_RCNN_Yolovx.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/blob/main/AML_%7C_Faster_RCNN_Yolovx.ipynb)
 
 Follow this
-link: [link](https://colab.research.google.com/github/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/blob/main/aml-faster-rcnn-vs-yolovx/AML_|_Faster_RCNN_Yolovx.ipynb)
+link: [link](https://colab.research.google.com/github/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/blob/main/AML_%7C_Faster_RCNN_Yolovx.ipynb)
 
 # Taking photos
 
